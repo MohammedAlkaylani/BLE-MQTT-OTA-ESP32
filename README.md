@@ -49,14 +49,14 @@ This project uses the following libraries:
 
 ### 📡 MQTT Topics Structure
 
-DEVICE/{userID}/{deviceID}/newmode
-DEVICE/{userID}/{deviceID}/savemode
-DEVICE/{userID}/{deviceID}/networkinformation/request
-DEVICE/{userID}/{deviceID}/networkinformation/response
-DEVICE/{userID}/{deviceID}/pause
-DEVICE/{userID}/{deviceID}/timer
-DEVICE/{userID}/{deviceID}/deviceinfo
-/update/{userID}/{deviceID}/url
+- DEVICE/{userID}/{deviceID}/newmode
+- DEVICE/{userID}/{deviceID}/savemode
+- DEVICE/{userID}/{deviceID}/networkinformation/request
+- DEVICE/{userID}/{deviceID}/networkinformation/response
+- DEVICE/{userID}/{deviceID}/pause
+- DEVICE/{userID}/{deviceID}/timer
+- DEVICE/{userID}/{deviceID}/deviceinfo
+- /update/{userID}/{deviceID}/url
 
 ### 🛠️ Customization
 
