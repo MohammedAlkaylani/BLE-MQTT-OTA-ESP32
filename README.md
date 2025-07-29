@@ -60,10 +60,10 @@ This project uses the following libraries:
 
 ### 🛠️ Customization
 
-const char* MQTT_SERVER = "mqtt.example.com";
-int MQTT_PORT = 1883;
-const char* ENCRYPTION_KEY = "32characterslongsecretkeymustbe1";
-const char* ENCRYPTION_IV = "16charIV12345678";
+- const char* MQTT_SERVER = "mqtt.example.com";
+- int MQTT_PORT = 1883;
+- const char* ENCRYPTION_KEY = "32characterslongsecretkeymustbe1";
+- const char* ENCRYPTION_IV = "16charIV12345678";
 
 ### ⚠️ Notes
 
